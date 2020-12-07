@@ -20,7 +20,7 @@ add(NavigationBar.class);
 
 ## import
 ```
-import { NavigationBarPlugin } from 'capacitor-navigationbar';
+import { NavigationBarPlugin } from 'capacitor-navigationbarnx';
 ...
 ...
 const NavigationBar = Plugins.NavigationBar as NavigationBarPlugin;

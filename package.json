@@ -1,6 +1,6 @@
 {
   "name": "capacitor-navigationbarnx",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Provides methods to customize the navigation bar on crossplatform apps built with capacitor",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",

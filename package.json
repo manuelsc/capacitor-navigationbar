@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-navigationbar",
+  "name": "capacitor-navigationbarnx",
   "version": "0.0.2",
   "description": "Provides methods to customize the navigation bar on crossplatform apps built with capacitor",
   "main": "dist/esm/index.js",
@@ -16,7 +16,7 @@
     "@capacitor/core": "latest"
   },
   "devDependencies": {
-    "typescript": "^3.2.4",
+    "typescript": "^3.9.0",
     "@capacitor/ios": "latest",
     "@capacitor/android": "latest"
   },
@@ -41,9 +41,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:nikosdouvlis/capacitor-navigationbar.git"
+    "url": "git@github.com:manuelsc/capacitor-navigationbar.git"
   },
   "bugs": {
-    "url": "git@github.com:nikosdouvlis/capacitor-navigationbar.git/issues"
+    "url": "git@github.com:manuelsc/capacitor-navigationbar.git/issues"
   }
 }

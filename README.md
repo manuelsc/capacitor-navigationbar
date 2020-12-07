@@ -7,7 +7,7 @@ Programmatically change the navigation bar color on android devices. This is a f
 
 ## install
 ```
-npm install github:manuelsc/capacitor-navigationbar
+npm install capacitor-navigationbarnx
 ```
 
 MainActivity.java:
